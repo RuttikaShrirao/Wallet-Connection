@@ -37,6 +37,9 @@ This project is a React component designed to allow users to easily **connect th
 
 5. Open your browser and visit `http://localhost:3000` to see the landing page in action.
 
+
+### Get projectId from https://cloud.reown.com
+
 Happy coding! 😊
 
 
